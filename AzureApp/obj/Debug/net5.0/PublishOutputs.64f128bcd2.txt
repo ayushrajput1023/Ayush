@@ -1,0 +1,11 @@
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\AzureApp.exe
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\appsettings.Development.json
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\appsettings.json
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\AzureApp.dll
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\AzureApp.deps.json
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\AzureApp.runtimeconfig.json
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\AzureApp.pdb
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Azure\AzureApp\AzureApp\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
